@@ -1,0 +1,5 @@
+DEVICE=eth1
+ONBOOT=no
+BOOTPROTO=dhcp
+NM_CONTROLLED="no"
+
