@@ -1,5 +1,5 @@
 # Squid_proxy
-This is a guide of initiation for the installation and administration of the SQUID proxy server. 
+This is a beginner's guide for the installation and administration of the SQUID proxy server. 
 We show how to install the service both by source code and package installer (in this case we use yum since the tests were done from the CentOS operating system).
 Among all the options provided by the service, we also show three specific scenarios with some of Squid's operating modes, such as reverse mode and transparent mode. 
 The project includes a pdf as a guide to all the theoretical part of the service (what is a proxy, operating proxy modes, protocols...) 
